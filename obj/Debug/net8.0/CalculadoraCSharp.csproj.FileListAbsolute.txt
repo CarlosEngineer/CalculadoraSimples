@@ -1,0 +1,14 @@
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\bin\Debug\net8.0\CalculadoraCSharp.exe
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\bin\Debug\net8.0\CalculadoraCSharp.deps.json
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\bin\Debug\net8.0\CalculadoraCSharp.runtimeconfig.json
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\bin\Debug\net8.0\CalculadoraCSharp.dll
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\bin\Debug\net8.0\CalculadoraCSharp.pdb
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.AssemblyInfoInputs.cache
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.AssemblyInfo.cs
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.dll
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\refint\CalculadoraCSharp.dll
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.pdb
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\CalculadoraCSharp.genruntimeconfig.cache
+C:\Users\Carlitos\Desktop\CalculadoraCSharp\obj\Debug\net8.0\ref\CalculadoraCSharp.dll
